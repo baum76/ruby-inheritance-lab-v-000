@@ -7,4 +7,5 @@ class Teacher
   def teach(KNOWLEDGE)
     KNOWLEDGE.sameple
   end
+  
 end
