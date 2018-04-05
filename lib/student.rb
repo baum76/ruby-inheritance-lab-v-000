@@ -8,7 +8,7 @@ class Student < User
   end
 
   def learn
-
+    
   end
 
   def knowledge
